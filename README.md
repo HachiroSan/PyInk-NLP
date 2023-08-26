@@ -17,10 +17,10 @@ Though PyInk doesn't fully get context yet, it's a step toward smarter communica
 
 
 
-![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/b9e39f14-229e-4411-8166-cbd7797fb379)
-![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/79dac6b5-7d7e-4564-bc03-441fbe6900b9)
-![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/69292795-c137-43c6-a7e0-9c9ab6e21d14)
-![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/dfa60eec-d0a5-4615-8867-eaa1cbd450c7)
-![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/f58d914b-1c4d-4c1f-95c7-bbe98ed6dae6)
-![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/eda066ea-47f7-4893-96be-790e77ae264f)
+![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/2963eed5-f5fd-4089-a2a6-8d0e99caa235)
+![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/e644bc47-d3e3-4b08-b494-09384d5b7f1b)
+![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/76153764-6955-446b-80f9-5307555f0e43)
+![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/949a9646-39ac-4db9-a34b-9ea2c3733bf1)
+![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/15b91faf-80fc-4875-9eef-881a10d91aad)
+![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/7197c653-131c-4275-91a3-91e0234e0007)
 
