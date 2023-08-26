@@ -1,20 +1,20 @@
-# PyInk NLP-Based Spelling Corrector [Proof-of-Concept]
-#### Built with PyQT6 and PyDracula Framework
+# PyInk: NLP-Based Spelling Corrector 
+#### Created with PyQT6 and PyDracula Framework
 
-PyInk reflects my passion for Artificial Intelligence, nurtured during my AI coursework. This project serves a dual purpose: demonstrating a solid grasp of NLP concepts and delivering practical value. In the realm of written communication, spelling errors are all too common. While traditional spell-checkers provide basic fixes, they struggle with the complexities of language. This issue intrigued me and prompted me to explore NLP techniques, leading to the creation of PyInk—a more advanced tool for spelling correction.
+PyInk reflects my interest in Artificial Intelligence developed through my AI coursework. This project has a dual purpose: to show my understanding of NLP concepts and to be practically useful. Spelling mistakes are common in writing. Regular spell-checkers fix simple errors but struggle with complex language. This challenge intrigued me, and it pushed me to explore NLP techniques, resulting in PyInk—a smarter tool for fixing spelling.
 
 ## Motivation
 
-My drive to develop PyInk arose from a desire to bridge theory and practice in AI. PyInk not only deepened my understanding of NLP but also aimed to help users improve their written communication. The limitations of standard spell-checkers highlighted the need for a smarter solution.
+I wanted to connect AI theory with real-world use. PyInk helped me learn more about NLP and aimed to make writing better for people. Traditional spell-checkers have limits, and I wanted to build a better solution.
 
-## Key Objectives
+## Goals
 
-- **NLP Integration:** PyInk is built on NLP principles, applied to spelling correction.
-- **Accurate Fixes:** Moving beyond simple checks, PyInk aims to understand language nuances for precise corrections.
-- **User-Friendly:** Created using PyQT6 and adorned with the pleasing PyDracula theme, PyInk prioritizes user experience.
-- **Real-World Impact:** PyInk is more than academia—it's about enhancing communication in the AI era.
+- **Using NLP:** PyInk uses NLP ideas to fix spelling.
+- **Better Fixes:** Beyond basic checks, PyInk tries to understand language for better corrections.
+- **User-Friendly:** Made with PyQT6 and styled with PyDracula, PyInk is easy to use.
 
-While PyInk doesn't yet understand context, it's a step towards smarter communication. Through this project, I contribute to AI-driven language tools while refining my AI and software development skills. PyInk embodies my AI journey, showcasing my commitment to innovative and practical AI applications.
+Though PyInk doesn't fully get context yet, it's a step toward smarter communication. With this project, I learned about NLP and got better at making software. PyInk shows how AI can help people write better in practical ways.
+
 
 
 ![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/b9e39f14-229e-4411-8166-cbd7797fb379)
