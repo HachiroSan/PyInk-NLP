@@ -21,5 +21,6 @@ Though PyInk doesn't fully get context yet, it's a step toward smarter communica
 ![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/79dac6b5-7d7e-4564-bc03-441fbe6900b9)
 ![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/69292795-c137-43c6-a7e0-9c9ab6e21d14)
 ![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/dfa60eec-d0a5-4615-8867-eaa1cbd450c7)
-![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/eda066ea-47f7-4893-96be-790e77ae264f)
 ![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/f58d914b-1c4d-4c1f-95c7-bbe98ed6dae6)
+![image](https://github.com/HachiroSan/PyInk-NLP/assets/20576651/eda066ea-47f7-4893-96be-790e77ae264f)
+
