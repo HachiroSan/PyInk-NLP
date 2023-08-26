@@ -1,4 +1,4 @@
-# PyInk NLP-Based Spelling Corrector
+# PyInk NLP-Based Spelling Corrector [Proof-of-Concept]
 #### Built with PyQT6 and PyDracula Framework
 
 PyInk reflects my passion for Artificial Intelligence, nurtured during my AI coursework. This project serves a dual purpose: demonstrating a solid grasp of NLP concepts and delivering practical value. In the realm of written communication, spelling errors are all too common. While traditional spell-checkers provide basic fixes, they struggle with the complexities of language. This issue intrigued me and prompted me to explore NLP techniques, leading to the creation of PyInk—a more advanced tool for spelling correction.
